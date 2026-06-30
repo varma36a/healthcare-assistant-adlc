@@ -1,0 +1,26 @@
+{
+  "patient_id": "P-001",
+  "name": "John Smith",
+  "age": 58,
+  "gender": "M",
+  "allergies": ["Penicillin"],
+  "medications": ["Lisinopril 10mg daily"],
+  "conditions": ["Hypertension"],
+  "vitals": {
+    "bp": "142/88",
+    "hr": 78,
+    "weight_kg": 102,
+    "bmi": 31.2
+  },
+  "lab_report": {
+    "date": "2026-06-15",
+    "fasting_glucose_mg_dl": 186,
+    "hba1c_percent": 8.2,
+    "creatinine_mg_dl": 1.1,
+    "egfr": 78
+  },
+  "notes": "Patient reports increased thirst and urination for 3 months. Family history of diabetes (father).",
+  "ground_truth_diagnosis": "E11.9",
+  "ground_truth_diagnosis_label": "Type 2 Diabetes Mellitus",
+  "red_flag": false
+}

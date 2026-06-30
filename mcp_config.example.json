@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "healthcare-assistant": {
+      "command": "python3",
+      "args": ["mcp_server/server.py"],
+      "cwd": "/Users/RohithGVMac/Agentic_AI/healthcare-assistant-adlc"
+    }
+  }
+}

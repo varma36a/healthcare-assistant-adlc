@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ADA-2026-SEC4.1",
+    "title": "ADA Standards of Care — Pharmacologic Approaches to Type 2 Diabetes",
+    "specialty": "Endocrinology",
+    "condition": "Type 2 Diabetes",
+    "icd10": ["E11.9", "E11"],
+    "content": "For newly diagnosed type 2 diabetes with HbA1c 7.5-8.5%, initiate Metformin 500mg daily if eGFR >= 30 and no contraindications. Provide structured diabetes self-management education. Recommend lifestyle modification: diet and 150 min/week moderate exercise. Recheck HbA1c in 3 months. Avoid sulfonylureas as first-line in elderly with cardiovascular risk.",
+    "last_updated": "2026-01-15",
+    "source": "American Diabetes Association 2026"
+  },
+  {
+    "id": "NICE-NG28",
+    "title": "NICE NG28 — Type 2 diabetes in adults: management",
+    "specialty": "Endocrinology",
+    "condition": "Type 2 Diabetes",
+    "icd10": ["E11.9", "E11"],
+    "content": "Offer structured education at diagnosis. Set individualized HbA1c target (usually 48 mmol/mol / 6.5% if appropriate). First-line pharmacotherapy is Metformin unless contraindicated. Review treatment every 3-6 months until stable, then every 6 months.",
+    "last_updated": "2025-11-01",
+    "source": "NICE"
+  },
+  {
+    "id": "NICE-CG185",
+    "title": "NICE CG185 — Chest pain of recent onset",
+    "specialty": "Cardiology",
+    "condition": "Chest Pain / Pericarditis",
+    "icd10": ["I30.9", "I30", "R07.9"],
+    "content": "If troponin is normal and ECG shows diffuse ST elevation with PR depression, consider acute pericarditis. NSAIDs (ibuprofen or aspirin) are first-line unless contraindicated. Colchicine reduces recurrence. Avoid anticoagulation unless pericardial effusion confirmed. Refer urgently if hemodynamic compromise, large effusion, or troponin elevation suggesting myopericarditis.",
+    "last_updated": "2025-11-01",
+    "source": "NICE"
+  },
+  {
+    "id": "IDSA-UTI-2025",
+    "title": "IDSA Guidelines — Complicated UTI in Older Adults",
+    "specialty": "Infectious Disease",
+    "condition": "Urinary Tract Infection",
+    "icd10": ["N39.0", "N39"],
+    "content": "In elderly patients presenting with acute confusion and urinary symptoms, consider UTI as cause of delirium. Obtain urinalysis and urine culture before antibiotics when possible. Empiric therapy based on local resistance patterns. Assess for obstruction in males with BPH. Re-evaluate mental status 48-72 hours after treatment initiation.",
+    "last_updated": "2025-08-20",
+    "source": "IDSA"
+  },
+  {
+    "id": "ACR-RA-2025",
+    "title": "ACR Guidelines — Rheumatoid Arthritis Management",
+    "specialty": "Rheumatology",
+    "condition": "Rheumatoid Arthritis",
+    "icd10": ["M06.9", "M06"],
+    "content": "Diagnosis requires clinical synovitis in at least 1 joint, serology (RF or anti-CCP), and elevated acute phase reactants. Early referral to rheumatology within 6 weeks of symptom onset. Start DMARD therapy (methotrexate first-line) promptly. NSAIDs and corticosteroids for symptom control while awaiting DMARD effect.",
+    "last_updated": "2025-06-01",
+    "source": "ACR"
+  },
+  {
+    "id": "JNC-HTN-2024",
+    "title": "JNC — Hypertension Management in Adults",
+    "specialty": "Internal Medicine",
+    "condition": "Hypertension",
+    "icd10": ["I10"],
+    "content": "Confirm elevated BP with repeated measurements. Target <130/80 for most adults with CVD risk. First-line agents: thiazide diuretics, ACE inhibitors, ARBs, or calcium channel blockers. Order baseline labs: BMP, lipids, urinalysis, ECG. Recheck labs annually. If labs >12 months old, order updated metabolic panel before medication changes.",
+    "last_updated": "2024-03-01",
+    "source": "JNC"
+  },
+  {
+    "id": "RED-FLAG-CHEST-PAIN",
+    "title": "Emergency Escalation Protocol — Chest Pain",
+    "specialty": "Emergency Medicine",
+    "condition": "Chest Pain",
+    "icd10": ["R07.9"],
+    "content": "RED FLAG: Any patient with chest pain and shortness of breath requires immediate clinician review. Do not schedule routine follow-up until acute coronary syndrome and pulmonary embolism are excluded. Activate emergency protocol if: troponin elevated, hemodynamic instability, or ECG shows STEMI pattern.",
+    "last_updated": "2026-01-01",
+    "source": "Internal Protocol"
+  }
+]

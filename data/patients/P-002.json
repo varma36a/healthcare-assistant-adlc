@@ -1,0 +1,28 @@
+{
+  "patient_id": "P-002",
+  "name": "Maria Garcia",
+  "age": 34,
+  "gender": "F",
+  "allergies": [],
+  "medications": [],
+  "conditions": [],
+  "vitals": {
+    "bp": "118/76",
+    "hr": 96,
+    "weight_kg": 62,
+    "bmi": 22.4
+  },
+  "lab_report": {
+    "date": "2026-06-20",
+    "wbc_k_ul": 11.2,
+    "hemoglobin_g_dl": 13.1,
+    "troponin_i_ng_ml": 0.02,
+    "bnp_pg_ml": 45,
+    "crp_mg_l": 28,
+    "ecg_summary": "Diffuse ST elevation, PR depression"
+  },
+  "notes": "Sharp chest pain for 2 days, worse when lying flat. Shortness of breath. No cardiac history.",
+  "ground_truth_diagnosis": "I30.9",
+  "ground_truth_diagnosis_label": "Acute Pericarditis",
+  "red_flag": true
+}

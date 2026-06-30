@@ -1,0 +1,15 @@
+{
+  "providers": [
+    {"id": "dr_patel", "name": "Dr. Anita Patel", "specialty": "Internal Medicine"},
+    {"id": "dr_kim", "name": "Dr. James Kim", "specialty": "Cardiology"},
+    {"id": "dr_rodriguez", "name": "Dr. Elena Rodriguez", "specialty": "Rheumatology"}
+  ],
+  "available_slots": [
+    {"slot_id": "S-001", "date": "2026-07-15", "time": "10:00", "provider_id": "dr_patel", "duration_min": 30},
+    {"slot_id": "S-002", "date": "2026-07-15", "time": "14:30", "provider_id": "dr_patel", "duration_min": 30},
+    {"slot_id": "S-003", "date": "2026-07-22", "time": "09:00", "provider_id": "dr_kim", "duration_min": 45},
+    {"slot_id": "S-004", "date": "2026-07-18", "time": "11:00", "provider_id": "dr_rodriguez", "duration_min": 30},
+    {"slot_id": "S-005", "date": "2026-07-25", "time": "15:00", "provider_id": "dr_patel", "duration_min": 30}
+  ],
+  "booked_appointments": []
+}

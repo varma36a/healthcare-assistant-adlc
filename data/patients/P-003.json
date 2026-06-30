@@ -1,0 +1,27 @@
+{
+  "patient_id": "P-003",
+  "name": "Robert Chen",
+  "age": 72,
+  "gender": "M",
+  "allergies": ["Sulfa"],
+  "medications": ["Tamsulosin 0.4mg daily", "Aspirin 81mg daily"],
+  "conditions": ["Benign prostatic hyperplasia"],
+  "vitals": {
+    "bp": "134/82",
+    "hr": 88,
+    "temp_f": 101.4,
+    "weight_kg": 78,
+    "bmi": 25.1
+  },
+  "lab_report": {
+    "date": "2026-06-18",
+    "wbc_k_ul": 14.8,
+    "urinalysis": "Positive nitrites, 50 WBC/hpf, bacteria present",
+    "creatinine_mg_dl": 1.4,
+    "egfr": 52
+  },
+  "notes": "Acute confusion started yesterday. Family reports fever and urinary frequency. Lives alone.",
+  "ground_truth_diagnosis": "N39.0",
+  "ground_truth_diagnosis_label": "Urinary Tract Infection with delirium",
+  "red_flag": true
+}

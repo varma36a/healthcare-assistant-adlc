@@ -1,0 +1,21 @@
+{
+  "patient_id": "P-005",
+  "name": "James Wilson",
+  "age": 61,
+  "gender": "M",
+  "allergies": [],
+  "medications": ["Amlodipine 5mg daily"],
+  "conditions": ["Hypertension"],
+  "vitals": {
+    "bp": "158/94",
+    "hr": 82,
+    "weight_kg": 95,
+    "bmi": 29.8
+  },
+  "lab_report": null,
+  "notes": "Follow-up for hypertension. Last labs dated 2024-01-10 (18 months ago). Patient reports occasional headaches.",
+  "ground_truth_diagnosis": "I10",
+  "ground_truth_diagnosis_label": "Essential Hypertension",
+  "red_flag": false,
+  "incomplete_records": true
+}

@@ -1,0 +1,26 @@
+{
+  "patient_id": "P-004",
+  "name": "Sarah Johnson",
+  "age": 45,
+  "gender": "F",
+  "allergies": [],
+  "medications": ["Levothyroxine 75mcg daily"],
+  "conditions": ["Hypothyroidism"],
+  "vitals": {
+    "bp": "122/78",
+    "hr": 72,
+    "weight_kg": 68,
+    "bmi": 24.8
+  },
+  "lab_report": {
+    "date": "2026-06-10",
+    "rf_iu_ml": 85,
+    "anti_ccp_u_ml": 120,
+    "esr_mm_hr": 42,
+    "crp_mg_l": 18
+  },
+  "notes": "Bilateral hand joint pain and morning stiffness lasting >1 hour for 6 weeks. Swelling in MCP joints.",
+  "ground_truth_diagnosis": "M06.9",
+  "ground_truth_diagnosis_label": "Rheumatoid Arthritis",
+  "red_flag": false
+}
