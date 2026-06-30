@@ -39,6 +39,22 @@ python main.py run P-006         # Adversarial / prompt injection case
 python main.py eval              # Run golden dataset evaluation (6 cases)
 ```
 
+### Streamlit Dashboard
+
+```bash
+source .venv/bin/activate
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
+
+Opens at **http://localhost:8501** with:
+- **Overview** — KPI cards, pass/fail, architecture
+- **Clinical Workflow** — run pipeline per patient, view all agent outputs
+- **Evaluation Metrics** — golden dataset results, per-case breakdown
+- **Patient Registry** — browse dummy patients
+- **RAG Explorer** — search clinical guidelines vector store
+- **ADLC Phases** — lifecycle documentation
+
 ## Dummy Patients
 
 | ID | Name | Condition | Notes |
